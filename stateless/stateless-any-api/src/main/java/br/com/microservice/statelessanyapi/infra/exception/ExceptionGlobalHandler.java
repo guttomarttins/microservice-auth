@@ -1,4 +1,4 @@
-package br.com.microservice.infra.exception;
+package br.com.microservice.statelessanyapi.infra.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
