@@ -1,0 +1,2 @@
+server:
+  port: ${POST:8083}
