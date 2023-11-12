@@ -1,4 +1,4 @@
-package br.com.microservice.core.model;
+package br.com.microservice.statefulauthapi.core.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
